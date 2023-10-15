@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Sprint Viewer",
+  "name": "Sprint Viewer",
   "icons": [
     {
       "src": "favicon.ico",
